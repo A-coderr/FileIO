@@ -1,0 +1,10 @@
+C:\Users\Akostyuk1701\Documents\Semester 2\Prog1815\Assignments\Assignment3\Assignment3\Assignment3\obj\Debug\Assignment3.csprojAssemblyReference.cache
+C:\Users\Akostyuk1701\Documents\Semester 2\Prog1815\Assignments\Assignment3\Assignment3\Assignment3\obj\Debug\Assignment3.Manufacturing.resources
+C:\Users\Akostyuk1701\Documents\Semester 2\Prog1815\Assignments\Assignment3\Assignment3\Assignment3\obj\Debug\Assignment3.Properties.Resources.resources
+C:\Users\Akostyuk1701\Documents\Semester 2\Prog1815\Assignments\Assignment3\Assignment3\Assignment3\obj\Debug\Assignment3.csproj.GenerateResource.cache
+C:\Users\Akostyuk1701\Documents\Semester 2\Prog1815\Assignments\Assignment3\Assignment3\Assignment3\obj\Debug\Assignment3.csproj.CoreCompileInputs.cache
+C:\Users\Akostyuk1701\Documents\Semester 2\Prog1815\Assignments\Assignment3\Assignment3\Assignment3\bin\Debug\Assignment3.exe.config
+C:\Users\Akostyuk1701\Documents\Semester 2\Prog1815\Assignments\Assignment3\Assignment3\Assignment3\bin\Debug\Assignment3.exe
+C:\Users\Akostyuk1701\Documents\Semester 2\Prog1815\Assignments\Assignment3\Assignment3\Assignment3\bin\Debug\Assignment3.pdb
+C:\Users\Akostyuk1701\Documents\Semester 2\Prog1815\Assignments\Assignment3\Assignment3\Assignment3\obj\Debug\Assignment3.exe
+C:\Users\Akostyuk1701\Documents\Semester 2\Prog1815\Assignments\Assignment3\Assignment3\Assignment3\obj\Debug\Assignment3.pdb
